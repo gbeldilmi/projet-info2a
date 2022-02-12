@@ -1,0 +1,346 @@
+Entrez le nom du joueur.
+	>> Fred
+Voulez-vous ajouter un autre joueur ?
+  [O/n] >> o
+Entrez le nom du joueur.
+	>> Jamy
+Voulez-vous ajouter un autre joueur ?
+  [O/n] >> n
+Choisissez une difficulté :
+  0 > Débutant
+  1 > Facile
+  2 > Moyen
+  3 > Difficile
+  4 > Extrême
+  5 > Impossible
+	>> 0
+Caractéristiques du jeu :
+Difficulté choisie : Débutant
+Valeur maximale : 20
+Indices : visibles
+Indices possibles : + - * / % ^ < >
+Joueurs :
+Nom : Fred	[Score : 0]
+Nom : Jamy	[Score : 0]
+C'est à Fred de jouer.
+##/ ##* ##- ##<
+##/ ##- ##^ ##+
+##+ ##/ ##* ##%
+##> ##- ##> ##/
+Sélectionnez la première case.
+Entrez un numéro de ligne :
+	>> 1
+Entrez un numéro de colonne :
+	>> 1
+Sélectionnez la seconde case.
+Entrez un numéro de ligne :
+	>> 2
+Entrez un numéro de colonne :
+	>> 1
+Indice de la première case : 0.06666666666666667
+Indice de la seconde case : 15.0
+Faire une hypothèse ?
+  [O/n] >> o
+Entrez la valeur hypothétique de la première case.
+	>> 1
+Entrez la valeur hypothétique de la seconde case.
+	>> 15
+Les deux hypothèses sont justes.
+Caractéristiques du jeu :
+Difficulté choisie : Débutant
+Valeur maximale : 20
+Indices : visibles
+Indices possibles : + - * / % ^ < >
+Joueurs :
+Nom : Fred	[Score : 16]
+Nom : Jamy	[Score : 0]
+C'est à Jamy de jouer.
+ 1/ ##* ##- ##<
+15/ ##- ##^ ##+
+##+ ##/ ##* ##%
+##> ##- ##> ##/
+Sélectionnez la première case.
+Entrez un numéro de ligne :
+	>> 1
+Entrez un numéro de colonne :
+	>> 2
+Sélectionnez la seconde case.
+Entrez un numéro de ligne :
+	>> 2
+Entrez un numéro de colonne :
+	>> 2
+Indice de la première case : 228.0
+Indice de la seconde case : -7.0
+Faire une hypothèse ?
+  [O/n] >> o
+Entrez la valeur hypothétique de la première case.
+	>> 19
+Entrez la valeur hypothétique de la seconde case.
+	>> 12
+Les deux hypothèses sont justes.
+Caractéristiques du jeu :
+Difficulté choisie : Débutant
+Valeur maximale : 20
+Indices : visibles
+Indices possibles : + - * / % ^ < >
+Joueurs :
+Nom : Fred	[Score : 16]
+Nom : Jamy	[Score : 31]
+C'est à Fred de jouer.
+ 1/ 19* ##- ##<
+15/ 12- ##^ ##+
+##+ ##/ ##* ##%
+##> ##- ##> ##/
+Sélectionnez la première case.
+Entrez un numéro de ligne :
+	>> 1
+Entrez un numéro de colonne :
+	>> 3
+Sélectionnez la seconde case.
+Entrez un numéro de ligne :
+	>> 2
+Entrez un numéro de colonne :
+	>> 3
+Indice de la première case : 4.0
+Indice de la seconde case : 1953125.0
+Faire une hypothèse ?
+  [O/n] >> o
+Entrez la valeur hypothétique de la première case.
+	>> 9
+Entrez la valeur hypothétique de la seconde case.
+	>> 5
+Les deux hypothèses sont justes.
+Caractéristiques du jeu :
+Difficulté choisie : Débutant
+Valeur maximale : 20
+Indices : visibles
+Indices possibles : + - * / % ^ < >
+Joueurs :
+Nom : Fred	[Score : 30]
+Nom : Jamy	[Score : 31]
+C'est à Jamy de jouer.
+ 1/ 19*  9- ##<
+15/ 12-  5^ ##+
+##+ ##/ ##* ##%
+##> ##- ##> ##/
+Sélectionnez la première case.
+Entrez un numéro de ligne :
+	>> 1
+Entrez un numéro de colonne :
+	>> 4
+Sélectionnez la seconde case.
+Entrez un numéro de ligne :
+	>> 2
+Entrez un numéro de colonne :
+	>> 4
+Indice de la première case : 1.0
+Indice de la seconde case : 4.0
+Faire une hypothèse ?
+  [O/n] >> o
+Entrez la valeur hypothétique de la première case.
+	>> 1
+Entrez la valeur hypothétique de la seconde case.
+	>> 3
+Les deux hypothèses sont justes.
+Caractéristiques du jeu :
+Difficulté choisie : Débutant
+Valeur maximale : 20
+Indices : visibles
+Indices possibles : + - * / % ^ < >
+Joueurs :
+Nom : Fred	[Score : 30]
+Nom : Jamy	[Score : 35]
+C'est à Fred de jouer.
+ 1/ 19*  9-  1<
+15/ 12-  5^  3+
+##+ ##/ ##* ##%
+##> ##- ##> ##/
+Sélectionnez la première case.
+Entrez un numéro de ligne :
+	>> 3
+Entrez un numéro de colonne :
+	>> 1
+Sélectionnez la seconde case.
+Entrez un numéro de ligne :
+	>> 3
+Entrez un numéro de colonne :
+	>> 2
+Indice de la première case : 8.0
+Indice de la seconde case : 0.14285714285714285
+Faire une hypothèse ?
+  [O/n] >> o
+Entrez la valeur hypothétique de la première case.
+	>> 7
+Entrez la valeur hypothétique de la seconde case.
+	>> 1
+Les deux hypothèses sont justes.
+Caractéristiques du jeu :
+Difficulté choisie : Débutant
+Valeur maximale : 20
+Indices : visibles
+Indices possibles : + - * / % ^ < >
+Joueurs :
+Nom : Fred	[Score : 38]
+Nom : Jamy	[Score : 35]
+C'est à Jamy de jouer.
+ 1/ 19*  9-  1<
+15/ 12-  5^  3+
+ 7+  1/ ##* ##%
+##> ##- ##> ##/
+Sélectionnez la première case.
+Entrez un numéro de ligne :
+	>> 3
+Entrez un numéro de colonne :
+	>> 3
+Sélectionnez la seconde case.
+Entrez un numéro de ligne :
+	>> 4
+Entrez un numéro de colonne :
+	>> 1
+Indice de la première case : 112.0
+Indice de la seconde case : 14.0
+Faire une hypothèse ?
+  [O/n] >> o
+Entrez la valeur hypothétique de la première case.
+	>> 14
+Entrez la valeur hypothétique de la seconde case.
+	>> 8
+Les deux hypothèses sont justes.
+Caractéristiques du jeu :
+Difficulté choisie : Débutant
+Valeur maximale : 20
+Indices : visibles
+Indices possibles : + - * / % ^ < >
+Joueurs :
+Nom : Fred	[Score : 38]
+Nom : Jamy	[Score : 57]
+C'est à Fred de jouer.
+ 1/ 19*  9-  1<
+15/ 12-  5^  3+
+ 7+  1/ 14* ##%
+ 8> ##- ##> ##/
+Sélectionnez la première case.
+Entrez un numéro de ligne :
+	>> 4
+Entrez un numéro de colonne :
+	>> 3
+Sélectionnez la seconde case.
+Entrez un numéro de ligne :
+	>> 3
+Entrez un numéro de colonne :
+	>> 4
+Indice de la première case : 20.0
+Indice de la seconde case : 7.0
+Faire une hypothèse ?
+  [O/n] >> o
+Entrez la valeur hypothétique de la première case.
+	>> 13
+Entrez la valeur hypothétique de la seconde case.
+	>> 20
+Les deux hypothèses sont fausses.
+Caractéristiques du jeu :
+Difficulté choisie : Débutant
+Valeur maximale : 20
+Indices : visibles
+Indices possibles : + - * / % ^ < >
+Joueurs :
+Nom : Fred	[Score : 38]
+Nom : Jamy	[Score : 57]
+C'est à Jamy de jouer.
+ 1/ 19*  9-  1<
+15/ 12-  5^  3+
+ 7+  1/ 14* ##%
+ 8> ##- ##> ##/
+Sélectionnez la première case.
+Entrez un numéro de ligne :
+	>> 4
+Entrez un numéro de colonne :
+	>> 3
+Sélectionnez la seconde case.
+Entrez un numéro de ligne :
+	>> 3
+Entrez un numéro de colonne :
+	>> 4
+Indice de la première case : 20.0
+Indice de la seconde case : 7.0
+Faire une hypothèse ?
+  [O/n] >> o
+Entrez la valeur hypothétique de la première case.
+	>> 20
+Entrez la valeur hypothétique de la seconde case.
+	>> 13
+L'une des deux hypothèses est fausse.
+Caractéristiques du jeu :
+Difficulté choisie : Débutant
+Valeur maximale : 20
+Indices : visibles
+Indices possibles : + - * / % ^ < >
+Joueurs :
+Nom : Fred	[Score : 38]
+Nom : Jamy	[Score : 57]
+C'est à Fred de jouer.
+ 1/ 19*  9-  1<
+15/ 12-  5^  3+
+ 7+  1/ 14* ##%
+ 8> ##- ##> ##/
+Sélectionnez la première case.
+Entrez un numéro de ligne :
+	>> 4
+Entrez un numéro de colonne :
+	>> 3
+Sélectionnez la seconde case.
+Entrez un numéro de ligne :
+	>> 3
+Entrez un numéro de colonne :
+	>> 4
+Indice de la première case : 20.0
+Indice de la seconde case : 7.0
+Faire une hypothèse ?
+  [O/n] >> o
+Entrez la valeur hypothétique de la première case.
+	>> 20
+Entrez la valeur hypothétique de la seconde case.
+	>> 7
+Les deux hypothèses sont justes.
+Caractéristiques du jeu :
+Difficulté choisie : Débutant
+Valeur maximale : 20
+Indices : visibles
+Indices possibles : + - * / % ^ < >
+Joueurs :
+Nom : Fred	[Score : 65]
+Nom : Jamy	[Score : 57]
+C'est à Jamy de jouer.
+ 1/ 19*  9-  1<
+15/ 12-  5^  3+
+ 7+  1/ 14*  7%
+ 8> ##- 20> ##/
+Sélectionnez la première case.
+Entrez un numéro de ligne :
+	>> 4
+Entrez un numéro de colonne :
+	>> 2
+Sélectionnez la seconde case.
+Entrez un numéro de ligne :
+	>> 4
+Entrez un numéro de colonne :
+	>> 4
+Indice de la première case : 5.0
+Indice de la seconde case : 0.0
+Faire une hypothèse ?
+  [O/n] >> o
+Entrez la valeur hypothétique de la première case.
+	>> 5
+Entrez la valeur hypothétique de la seconde case.
+	>> 0
+Les deux hypothèses sont justes.
+Toutes les cases ont été découvertes.
+ 1/ 19*  9-  1<
+15/ 12-  5^  3+
+ 7+  1/ 14*  7%
+ 8>  5- 20>  0/
+Joueurs :
+Nom : Fred	[Score : 65]
+Nom : Jamy	[Score : 62]
+Voulez-vous faire une nouvelle partie ?
+  [O/n] >> n
